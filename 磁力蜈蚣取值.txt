@@ -1,0 +1,40 @@
+Public Class Form1
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        Dim takes(500), take1, a As String
+        Dim take(500), time As Integer
+        take1 = TextBox1.Text
+        takes = Split(take1, " ")
+
+        For i = 1 To UBound(takes)
+            take(i) = takes(i)
+        Next
+        time = take(0)
+
+        For i = 1 To time
+            a &= take(i)
+            a &= Space(1)
+        Next
+        Label1.Text = a
+
+    End Sub
+End Class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

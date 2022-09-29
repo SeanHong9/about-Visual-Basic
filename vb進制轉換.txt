@@ -1,0 +1,7 @@
+
+ Dim j,k As String
+ k=19
+ j = Convert.ToString(k, 16)        '10進制19 轉16進制
+ j = Convert.ToString(245, 8)       '10進制245 轉8進制
+ j = Convert.ToInt32(k, 2)          '2進制k 轉10進制=10
+ j = Convert.ToInt32("1010", 8)     '8進制1010 轉10進制=520

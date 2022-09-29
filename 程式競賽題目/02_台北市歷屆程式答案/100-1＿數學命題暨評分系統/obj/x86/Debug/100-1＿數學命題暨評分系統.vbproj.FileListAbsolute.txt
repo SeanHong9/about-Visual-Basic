@@ -1,0 +1,9 @@
+H:\北市程式賽\程式碼\100-1＿數學命題暨評分系統\bin\Debug\100-1＿數學命題暨評分系統.exe
+H:\北市程式賽\程式碼\100-1＿數學命題暨評分系統\bin\Debug\100-1＿數學命題暨評分系統.pdb
+H:\北市程式賽\程式碼\100-1＿數學命題暨評分系統\bin\Debug\100-1＿數學命題暨評分系統.xml
+H:\北市程式賽\程式碼\100-1＿數學命題暨評分系統\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\北市程式賽\程式碼\100-1＿數學命題暨評分系統\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\北市程式賽\程式碼\100-1＿數學命題暨評分系統\obj\x86\Debug\100-1＿數學命題暨評分系統.vbproj.GenerateResource.Cache
+H:\北市程式賽\程式碼\100-1＿數學命題暨評分系統\obj\x86\Debug\100-1＿數學命題暨評分系統.exe
+H:\北市程式賽\程式碼\100-1＿數學命題暨評分系統\obj\x86\Debug\100-1＿數學命題暨評分系統.xml
+H:\北市程式賽\程式碼\100-1＿數學命題暨評分系統\obj\x86\Debug\100-1＿數學命題暨評分系統.pdb

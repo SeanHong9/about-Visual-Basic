@@ -1,0 +1,2 @@
+D:\北市程式碼\106-2\bin\Debug\106-2.exe.config
+C:\Users\Owner\Desktop\程式競賽題目\02_台北市歷屆程式答案\106-2\bin\Debug\106-2.exe.config

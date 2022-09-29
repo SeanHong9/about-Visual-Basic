@@ -1,0 +1,95 @@
+Public Class F1
+
+    Private Sub TextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox1.TextChanged
+        Label3.Text = " "
+        Dim num(), cin As String
+        Dim a, b, c, d, newb As Integer
+
+        Dim ans, q, newa As Integer
+
+        cin = TextBox1.Text
+        num = Split(cin, ",")
+
+        If num.Length > 3 Then
+            a = Val(num(0))
+            b = Val(num(1))
+            c = Val(num(2))
+            d = Val(num(3))
+        End If
+
+        If c > 0 Then
+            a -= c * 37
+        Else
+            If b > 0 And b Mod 8 = 0 Then
+                newb += b \ 8
+            ElseIf b > 0 And b Mod 8 > 0 Then
+                newb += b \ 8
+                q += 1
+            End If
+
+            If a < 0 Then
+                a = 0
+            End If
+            If a > 0 And a <= 64 Then
+                q += 1
+            End If
+
+            If a > 64 Then
+                newa += a \ 64
+                a -= (a \ 64) * 64
+                If a > 0 Then
+                    q += 1
+                End If
+            End If
+
+            ans = d + c + newb + newa + q
+        End If
+
+        If a <= 0 Then
+
+            If b > 0 And b Mod 8 = 0 Then
+                newb += b \ 8
+            ElseIf b > 0 And b Mod 8 > 0 Then
+                newb += b \ 8
+                q += 1
+            End If
+            ans = d + c + q + newb + newa
+            Label3.Text = ans
+
+        Else
+
+            If b Mod 8 > 0 Then
+                If a > 0 Then
+                    q += 1
+                    a -= 64 - (b Mod 8) * 8
+                Else
+                    q += 1
+                End If
+            End If
+
+
+
+            If a < 0 Then
+                a = 0
+            End If
+            If a > 0 And a <= 64 Then
+                q += 1
+            End If
+
+            If a > 64 Then
+                newa += a \ 64
+                a -= (a \ 64) * 64
+                If a > 0 Then
+                    q += 1
+                End If
+            End If
+
+            ans = d + c + b \ 8 + newa + q
+            Label3.Text = ans
+        End If
+
+
+
+
+    End Sub
+End Class

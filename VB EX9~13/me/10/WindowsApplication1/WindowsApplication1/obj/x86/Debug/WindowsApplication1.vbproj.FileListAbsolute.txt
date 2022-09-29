@@ -1,0 +1,30 @@
+C:\Users\slhs\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\slhs\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\slhs\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\slhs\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\slhs\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\slhs\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\slhs\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\slhs\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\slhs\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\slhs\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\slhs\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\slhs\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\slhs\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\slhs\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\slhs\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\slhs\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\slhs\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\slhs\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\me\10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Owner\Desktop\me\10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Owner\Desktop\me\10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Owner\Desktop\me\10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Owner\Desktop\me\10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Owner\Desktop\me\10\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Owner\Desktop\me\10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Owner\Desktop\me\10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Owner\Desktop\me\10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\備份\學校\備審\VB EX9~13\me\10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\備份\學校\備審\VB EX9~13\me\10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\備份\學校\備審\VB EX9~13\me\10\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

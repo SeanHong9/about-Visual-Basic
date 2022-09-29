@@ -1,0 +1,9 @@
+D:\北市程式碼\105-2\bin\Debug\105-2.exe
+D:\北市程式碼\105-2\bin\Debug\105-2.pdb
+D:\北市程式碼\105-2\bin\Debug\105-2.xml
+D:\北市程式碼\105-2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\北市程式碼\105-2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\北市程式碼\105-2\obj\x86\Debug\105-2.vbproj.GenerateResource.Cache
+D:\北市程式碼\105-2\obj\x86\Debug\105-2.exe
+D:\北市程式碼\105-2\obj\x86\Debug\105-2.xml
+D:\北市程式碼\105-2\obj\x86\Debug\105-2.pdb

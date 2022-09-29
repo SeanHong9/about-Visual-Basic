@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\4x4 A~F 算分數\4x4 A~Fnj04zp gj4\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Owner\Desktop\4x4 A~F 算分數\4x4 A~Fnj04zp gj4\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Owner\Desktop\4x4 A~F 算分數\4x4 A~Fnj04zp gj4\obj\x86\Debug\4x4 A~F算分數.vbproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\4x4 A~F 算分數\4x4 A~Fnj04zp gj4\bin\Debug\4x4 A~F算分數.exe
+C:\Users\Owner\Desktop\4x4 A~F 算分數\4x4 A~Fnj04zp gj4\bin\Debug\4x4 A~F算分數.pdb
+C:\Users\Owner\Desktop\4x4 A~F 算分數\4x4 A~Fnj04zp gj4\bin\Debug\4x4 A~F算分數.xml
+C:\Users\Owner\Desktop\4x4 A~F 算分數\4x4 A~Fnj04zp gj4\obj\x86\Debug\4x4 A~F算分數.exe
+C:\Users\Owner\Desktop\4x4 A~F 算分數\4x4 A~Fnj04zp gj4\obj\x86\Debug\4x4 A~F算分數.xml
+C:\Users\Owner\Desktop\4x4 A~F 算分數\4x4 A~Fnj04zp gj4\obj\x86\Debug\4x4 A~F算分數.pdb
